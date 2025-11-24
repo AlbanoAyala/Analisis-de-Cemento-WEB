@@ -1,5 +1,0 @@
-{
-  "name": "Cement Quality Control Analyzer",
-  "description": "An advanced web application for analyzing well cementation quality from .las and Excel files. It provides detailed KPI dashboards, high-quality visualizations of cement bond logs (CBL), and generates comprehensive PDF reports.",
-  "requestFramePermissions": []
-}
